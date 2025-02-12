@@ -27,8 +27,13 @@ MonoBehaviour:
       m_Sprite: {fileID: 21300000, guid: bb4f39078841c464bbdb133f35121b0d, type: 3}
       m_FromMain: 0
       m_SpriteOverride: {fileID: 21300000, guid: bb4f39078841c464bbdb133f35121b0d, type: 3}
+    - m_Name: HollowHorns
+      m_Hash: 535559878
+      m_Sprite: {fileID: 21300000, guid: 847b8d0cffaacbb458a23564b4989d03, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 847b8d0cffaacbb458a23564b4989d03, type: 3}
     m_FromMain: 0
-    m_EntryOverrideCount: 2
+    m_EntryOverrideCount: 3
   - m_Name: Face
     m_Hash: 623301721
     m_CategoryList: []
@@ -43,8 +48,13 @@ MonoBehaviour:
       m_Sprite: {fileID: 21300000, guid: 407a1b1d35d95f8468ec42cdb6ec1476, type: 3}
       m_FromMain: 0
       m_SpriteOverride: {fileID: 21300000, guid: 407a1b1d35d95f8468ec42cdb6ec1476, type: 3}
+    - m_Name: HollowEyes
+      m_Hash: 844314582
+      m_Sprite: {fileID: 21300000, guid: 92322112a679f2f4d8ecfba18f52269e, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 92322112a679f2f4d8ecfba18f52269e, type: 3}
     m_FromMain: 0
-    m_EntryOverrideCount: 2
+    m_EntryOverrideCount: 3
   - m_Name: Top
     m_Hash: 647256362
     m_CategoryList: []
@@ -59,8 +69,13 @@ MonoBehaviour:
       m_Sprite: {fileID: 21300000, guid: 56e9c84980256564cb8e0eb5fb4132df, type: 3}
       m_FromMain: 0
       m_SpriteOverride: {fileID: 21300000, guid: 56e9c84980256564cb8e0eb5fb4132df, type: 3}
+    - m_Name: HollowCloak
+      m_Hash: 981783683
+      m_Sprite: {fileID: 21300000, guid: 16b6a0ded92bab94a9cb4018242209db, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 16b6a0ded92bab94a9cb4018242209db, type: 3}
     m_FromMain: 0
-    m_EntryOverrideCount: 2
+    m_EntryOverrideCount: 3
   - m_Name: Bottoms
     m_Hash: 92392980
     m_CategoryList: []
@@ -96,8 +111,13 @@ MonoBehaviour:
       m_Sprite: {fileID: 21300000, guid: e02ac42d4b01945478f0a74c7227ca23, type: 3}
       m_FromMain: 0
       m_SpriteOverride: {fileID: 21300000, guid: e02ac42d4b01945478f0a74c7227ca23, type: 3}
+    - m_Name: HollowNail
+      m_Hash: 383385830
+      m_Sprite: {fileID: 21300000, guid: 1cecb7414b067654cbb92b023002aae5, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 1cecb7414b067654cbb92b023002aae5, type: 3}
     m_FromMain: 0
-    m_EntryOverrideCount: 2
+    m_EntryOverrideCount: 3
   m_PrimaryLibraryGUID: 
-  m_ModificationHash: 638749568551832801
+  m_ModificationHash: 638749597683600197
   m_Version: 1

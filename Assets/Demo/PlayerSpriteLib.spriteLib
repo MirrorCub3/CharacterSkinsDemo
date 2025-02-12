@@ -19,9 +19,9 @@ MonoBehaviour:
     m_OverrideEntries:
     - m_Name: None
       m_Hash: 530755569
-      m_Sprite: {fileID: 0}
+      m_Sprite: {fileID: 21300000, guid: 029796aa949e96a48bf1a4effe5ff46b, type: 3}
       m_FromMain: 0
-      m_SpriteOverride: {fileID: 0}
+      m_SpriteOverride: {fileID: 21300000, guid: 029796aa949e96a48bf1a4effe5ff46b, type: 3}
     - m_Name: Hat Guide
       m_Hash: 234159030
       m_Sprite: {fileID: 21300000, guid: bb4f39078841c464bbdb133f35121b0d, type: 3}
@@ -35,9 +35,9 @@ MonoBehaviour:
     m_OverrideEntries:
     - m_Name: None
       m_Hash: 530755569
-      m_Sprite: {fileID: 0}
+      m_Sprite: {fileID: 21300000, guid: 029796aa949e96a48bf1a4effe5ff46b, type: 3}
       m_FromMain: 0
-      m_SpriteOverride: {fileID: 0}
+      m_SpriteOverride: {fileID: 21300000, guid: 029796aa949e96a48bf1a4effe5ff46b, type: 3}
     - m_Name: Face Guide
       m_Hash: 906843254
       m_Sprite: {fileID: 21300000, guid: 407a1b1d35d95f8468ec42cdb6ec1476, type: 3}
@@ -51,9 +51,9 @@ MonoBehaviour:
     m_OverrideEntries:
     - m_Name: None
       m_Hash: 530755569
-      m_Sprite: {fileID: 0}
+      m_Sprite: {fileID: 21300000, guid: 029796aa949e96a48bf1a4effe5ff46b, type: 3}
       m_FromMain: 0
-      m_SpriteOverride: {fileID: 0}
+      m_SpriteOverride: {fileID: 21300000, guid: 029796aa949e96a48bf1a4effe5ff46b, type: 3}
     - m_Name: Top Guide
       m_Hash: 650476786
       m_Sprite: {fileID: 21300000, guid: 56e9c84980256564cb8e0eb5fb4132df, type: 3}
@@ -67,9 +67,9 @@ MonoBehaviour:
     m_OverrideEntries:
     - m_Name: None
       m_Hash: 530755569
-      m_Sprite: {fileID: 0}
+      m_Sprite: {fileID: 21300000, guid: 029796aa949e96a48bf1a4effe5ff46b, type: 3}
       m_FromMain: 0
-      m_SpriteOverride: {fileID: 0}
+      m_SpriteOverride: {fileID: 21300000, guid: 029796aa949e96a48bf1a4effe5ff46b, type: 3}
     - m_Name: Bottoms Guide
       m_Hash: 643808827
       m_Sprite: {fileID: 21300000, guid: 5b9f7a2e4b8f80c489711545778e0934, type: 3}
@@ -83,9 +83,9 @@ MonoBehaviour:
     m_OverrideEntries:
     - m_Name: None
       m_Hash: 530755569
-      m_Sprite: {fileID: 0}
+      m_Sprite: {fileID: 21300000, guid: 029796aa949e96a48bf1a4effe5ff46b, type: 3}
       m_FromMain: 0
-      m_SpriteOverride: {fileID: 0}
+      m_SpriteOverride: {fileID: 21300000, guid: 029796aa949e96a48bf1a4effe5ff46b, type: 3}
     - m_Name: Weapons Guide
       m_Hash: 1032162435
       m_Sprite: {fileID: 21300000, guid: e02ac42d4b01945478f0a74c7227ca23, type: 3}
@@ -94,5 +94,5 @@ MonoBehaviour:
     m_FromMain: 0
     m_EntryOverrideCount: 2
   m_PrimaryLibraryGUID: 
-  m_ModificationHash: 638748947532903911
+  m_ModificationHash: 638749522381242217
   m_Version: 1

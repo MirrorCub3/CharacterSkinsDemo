@@ -98,7 +98,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_CategoryHash: 1.2206803e-35
-  m_labelHash: 7.762648e-16
+  m_labelHash: 6.890074e-20
   m_SpriteKey: 0
   m_SpriteHash: 485880431
 --- !u!1 &2485312108348819920
@@ -199,7 +199,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_CategoryHash: 1.4470151e-16
-  m_labelHash: 0.00000210598
+  m_labelHash: 6.890074e-20
   m_SpriteKey: 0
   m_SpriteHash: 822226528
 --- !u!1 &2555488409142761801
@@ -214,13 +214,15 @@ GameObject:
   - component: {fileID: 2047749424607272149}
   - component: {fileID: 7745275018808301878}
   - component: {fileID: 2550011143565183378}
+  - component: {fileID: 4227571856603403484}
+  - component: {fileID: 7236716451704387546}
   m_Layer: 6
   m_Name: Player
   m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &7188694545382542546
 Transform:
   m_ObjectHideFlags: 0
@@ -324,6 +326,39 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 64
   anim: {fileID: 4332528223143182252}
+--- !u!114 &4227571856603403484
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2555488409142761801}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed8b1ae4e4e52b34ea557c1c11e076fc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_CategoryHash: 0
+  m_labelHash: 0
+  m_SpriteKey: 0
+  m_SpriteHash: 0
+--- !u!114 &7236716451704387546
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2555488409142761801}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82c5f89a925e35b4999deb848fe7ca93, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  hatResolver: {fileID: 8209436669302517416}
+  faceResolver: {fileID: 5399973051703959115}
+  topResolver: {fileID: 5202853274726984252}
+  bottomsResolver: {fileID: 314532932695861647}
+  weaponResolver: {fileID: 4817088273127439278}
 --- !u!1 &2733518850753387845
 GameObject:
   m_ObjectHideFlags: 0
@@ -422,7 +457,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_CategoryHash: 1.7667347e-13
-  m_labelHash: 1.5098258e-30
+  m_labelHash: 6.890074e-20
   m_SpriteKey: 0
   m_SpriteHash: 646784576
 --- !u!1 &3296416595745042213
@@ -523,7 +558,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_CategoryHash: 1.0293731e-15
-  m_labelHash: 1.3703487e-15
+  m_labelHash: 6.890074e-20
   m_SpriteKey: 0
   m_SpriteHash: 104282991
 --- !u!1 &7041685838659066284
@@ -624,7 +659,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_CategoryHash: 7.259404e-11
-  m_labelHash: 0.06520941
+  m_labelHash: 6.890074e-20
   m_SpriteKey: 0
   m_SpriteHash: 555862233
 --- !u!1 &8033044239302996188

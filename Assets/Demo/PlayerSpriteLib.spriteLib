@@ -32,8 +32,18 @@ MonoBehaviour:
       m_Sprite: {fileID: 21300000, guid: 847b8d0cffaacbb458a23564b4989d03, type: 3}
       m_FromMain: 0
       m_SpriteOverride: {fileID: 21300000, guid: 847b8d0cffaacbb458a23564b4989d03, type: 3}
+    - m_Name: PajabugHair
+      m_Hash: 155571009
+      m_Sprite: {fileID: 21300000, guid: 512441e682ae7564cafcdd561f6eb80c, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 512441e682ae7564cafcdd561f6eb80c, type: 3}
+    - m_Name: PajabugHat
+      m_Hash: 982826260
+      m_Sprite: {fileID: 21300000, guid: 84eb7b17861da474d994ed75514380d5, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 84eb7b17861da474d994ed75514380d5, type: 3}
     m_FromMain: 0
-    m_EntryOverrideCount: 3
+    m_EntryOverrideCount: 5
   - m_Name: Face
     m_Hash: 623301721
     m_CategoryList: []
@@ -53,8 +63,13 @@ MonoBehaviour:
       m_Sprite: {fileID: 21300000, guid: 92322112a679f2f4d8ecfba18f52269e, type: 3}
       m_FromMain: 0
       m_SpriteOverride: {fileID: 21300000, guid: 92322112a679f2f4d8ecfba18f52269e, type: 3}
+    - m_Name: PajabugFace
+      m_Hash: 279365951
+      m_Sprite: {fileID: 21300000, guid: 57957ac8d1d990c43b3da0e909c5c93f, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 57957ac8d1d990c43b3da0e909c5c93f, type: 3}
     m_FromMain: 0
-    m_EntryOverrideCount: 3
+    m_EntryOverrideCount: 4
   - m_Name: Top
     m_Hash: 647256362
     m_CategoryList: []
@@ -74,8 +89,13 @@ MonoBehaviour:
       m_Sprite: {fileID: 21300000, guid: 16b6a0ded92bab94a9cb4018242209db, type: 3}
       m_FromMain: 0
       m_SpriteOverride: {fileID: 21300000, guid: 16b6a0ded92bab94a9cb4018242209db, type: 3}
+    - m_Name: PajabugTop
+      m_Hash: 910560919
+      m_Sprite: {fileID: 21300000, guid: 5ffcce1191b871248a7449998808f209, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 5ffcce1191b871248a7449998808f209, type: 3}
     m_FromMain: 0
-    m_EntryOverrideCount: 3
+    m_EntryOverrideCount: 4
   - m_Name: Bottoms
     m_Hash: 92392980
     m_CategoryList: []
@@ -95,8 +115,13 @@ MonoBehaviour:
       m_Sprite: {fileID: 21300000, guid: 473fe86e44eb3144ca42523137a3e035, type: 3}
       m_FromMain: 0
       m_SpriteOverride: {fileID: 21300000, guid: 473fe86e44eb3144ca42523137a3e035, type: 3}
+    - m_Name: PajabugPants
+      m_Hash: 433690270
+      m_Sprite: {fileID: 21300000, guid: fb684d44ec7c2154c88cfd6e596c4020, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: fb684d44ec7c2154c88cfd6e596c4020, type: 3}
     m_FromMain: 0
-    m_EntryOverrideCount: 3
+    m_EntryOverrideCount: 4
   - m_Name: Weapon
     m_Hash: 782213840
     m_CategoryList: []
@@ -116,8 +141,13 @@ MonoBehaviour:
       m_Sprite: {fileID: 21300000, guid: 1cecb7414b067654cbb92b023002aae5, type: 3}
       m_FromMain: 0
       m_SpriteOverride: {fileID: 21300000, guid: 1cecb7414b067654cbb92b023002aae5, type: 3}
+    - m_Name: PajabugPet
+      m_Hash: 214797016
+      m_Sprite: {fileID: 21300000, guid: 3aa492f00e5d08a418736a729345f66e, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 21300000, guid: 3aa492f00e5d08a418736a729345f66e, type: 3}
     m_FromMain: 0
-    m_EntryOverrideCount: 3
+    m_EntryOverrideCount: 4
   m_PrimaryLibraryGUID: 
-  m_ModificationHash: 638749597683600197
+  m_ModificationHash: 638749657118914640
   m_Version: 1

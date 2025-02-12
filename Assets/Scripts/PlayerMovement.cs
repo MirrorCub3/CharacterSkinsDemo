@@ -32,7 +32,6 @@ public class PlayerMovement : MonoBehaviour
     {
         originalScale = transform.localScale;
         myRigidbody = GetComponent<Rigidbody2D>();
-        anim = GetComponent<Animator>();
 
         hasAnim = anim != null;
 
